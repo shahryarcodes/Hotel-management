@@ -1,0 +1,93 @@
+﻿
+@{
+    ViewBag.Title = "ShowEmp";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowEmp</title>
+    <link rel="stylesheet" href="~/CSS/StyleSheet1.css" />
+</head>
+<body>
+    <h2>Employee Records</h2>
+
+
+    <div>
+        <table style="border:1px solid #000000">
+            <tr style="font-weight:bold">
+
+                @*<td>RoomID</td>
+                    <td>RoomTypeID</td>
+                    <td>Room Number</td>
+                    <td>Room Description</td>
+                    <td>Room Status</td>
+                    <td>Room Cost</td>*@
+
+                <td>EmployeeID </td>
+
+                <td>EmployeeName </td>
+
+                <td>LoginID</td>
+
+                <td>Login Password</td>
+
+                <td>Employee Type</td>
+
+                <td>Employee Status</td>
+
+
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.EmployeeID </td>
+
+
+                    <td>@item.EmployeeName</td>
+
+                    <td>@item.LoginID</td>
+
+                    <td>@item.LoginPassword</td>
+                    <td>@item.EmployeeType</td>
+                    <td>@item.EmployeeStatus</td>
+
+                    <td id="dlt">@Html.ActionLink("Delete data", "DeleteEmp", new { EmployeeID = item.EmployeeID })</td>
+                </tr>
+            }
+            @*@foreach (var item in Model)
+                {
+                  <tr>
+                      <td>@item.RoomID</td>
+                      <td>@item.RoomTypeID</td>
+                      <td>@item.RoomNumber</td>
+                      <td>@item.Room_Discription</td>
+                      <td>@item.Room_Status</td>
+                      <td>@item.Room_Cost</td>
+                      <td>@Html.ActionLink("Delete data", "delete", new { RoomID = item.RoomID })</td>
+
+                   </tr>
+                }*@
+
+        </table>
+    </div>
+    <style>
+        table {
+            width: 100%;
+        }
+
+        #dlt {
+            font-size: 20px;
+        }
+    </style>
+</body>
+</html>
+
+
+
+
+

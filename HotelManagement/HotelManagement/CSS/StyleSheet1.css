@@ -1,0 +1,68 @@
+﻿body {
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    margin-bottom: 4rem;
+    margin-top: 6.2rem;
+    background: #ff6801;
+    color: #fff;
+}
+
+input {
+    width: 280px;
+    height: 35px;
+    margin: 4rem;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+    color:#0094ff;
+    
+   /* margin-left: 77rem;
+    margin-bottom: -10px;*/
+}
+
+#submit {
+    background: #ff6801;
+    color: #fff;
+}
+
+    #submit:hover {
+        background-color: #cd5300;
+    }
+
+.submit {
+    width: 8%;
+    height: 34px;
+    font-family: Bahnschrift;
+    font-size: 20px;
+    padding-right:5.5rem;
+    border:none;
+}
+
+/*#roomform{
+    float:left;
+    text-align:justify;
+    width: 0%;
+    margin-top: 2rem;
+}*/
+/*.img-responsive>img {
+   
+    width: 85%;
+    border:3px solid #000000;
+    border-radius:100px;
+    margin-top: 2rem;
+}
+
+*/
+
+
+

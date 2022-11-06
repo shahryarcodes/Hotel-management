@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "ShowData";
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowData</title>
+    <link rel="stylesheet" href="~/CSS/StyleSheet1.css" />
+</head>
+<body>
+    <h2>Records</h2>
+
+
+    <div >
+        <table style="border:1px solid #000000">
+            <tr style="font-weight:bold">
+
+                @*<td>RoomID</td>
+                <td>RoomTypeID</td>
+                <td>Room Number</td>
+                <td>Room Description</td>
+                <td>Room Status</td>
+                <td>Room Cost</td>*@
+
+                <td>BookingID </td>
+
+                <td>RoomID </td>
+
+                <td>CustomerID</td>
+
+                <td>Booking Date</td>
+
+                <td>Booking Status</td>
+
+
+
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.BookingID </td>
+
+
+                    <td>@item.RoomID</td>
+
+                    <td>@item.CustomerID</td>
+
+                    <td>@item.BookingDate</td>
+                    <td>@item.BookingStatus</td>
+
+                    <td id="dlt">@Html.ActionLink("Delete data", "Delete", new { BookingID = item.BookingID })</td>
+                </tr>
+            }
+            @*@foreach (var item in Model)
+        {
+          <tr>
+              <td>@item.RoomID</td>
+              <td>@item.RoomTypeID</td>
+              <td>@item.RoomNumber</td>
+              <td>@item.Room_Discription</td>
+              <td>@item.Room_Status</td>
+              <td>@item.Room_Cost</td>
+              <td>@Html.ActionLink("Delete data", "delete", new { RoomID = item.RoomID })</td>
+
+           </tr>
+        }*@
+
+        </table>
+    </div>
+    <style>
+        table{
+            width:100%;
+            
+           
+            
+            
+            
+        }
+        #dlt{
+            font-size:20px;
+            
+        }
+    </style>
+</body>
+</html>
+
+
+

@@ -1,0 +1,194 @@
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.dll.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Antlr3.Runtime.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.SqlServer.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Newtonsoft.Json.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Owin.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Helpers.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Mvc.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Optimization.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Razor.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Razor.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\WebGrease.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.dll.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.dll.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.dll.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Helpers.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Mvc.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Optimization.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Razor.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Razor.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Newtonsoft.Json.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Antlr3.Runtime.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.SqlServer.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.pdb
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.exe
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.exe.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.rsp
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.exe
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.exe.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.rsp
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Buffers.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Memory.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.exe
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.exe.config
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.rsp
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\VBCSCompiler.exe
+C:\Users\shahr\Downloads\Compressed\HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.dll.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.pdb
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.exe
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.exe.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csc.rsp
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.exe
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.exe.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\csi.rsp
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Buffers.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Memory.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Numerics.Vectors.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.exe
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.exe.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\vbc.rsp
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\VBCSCompiler.exe
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Antlr3.Runtime.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.SqlServer.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Newtonsoft.Json.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Owin.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Helpers.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Mvc.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Optimization.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Razor.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Deployment.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Razor.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\WebGrease.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.pdb
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Data.dll.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.pdb
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Entities.dll.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.pdb
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\HotelManagement.Services.dll.config
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Helpers.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Mvc.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Optimization.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.Razor.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Deployment.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\System.Web.WebPages.Razor.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Newtonsoft.Json.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Antlr3.Runtime.pdb
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\EntityFramework.SqlServer.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.AssemblyReference.cache
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.dll
+D:\fall 2022\DBMS HotelManagement-master\HotelManagement-master\HotelManagement\obj\Debug\HotelManagement.pdb
