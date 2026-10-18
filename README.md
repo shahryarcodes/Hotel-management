@@ -1,4 +1,4 @@
-# Enterprise Hotel Operations Management Application
+# Hotel Operations Management Application
 
 A full-stack web application engineered to optimize hospitality workflows, guest lifecycle operations, and relational database transactional flows.
 
